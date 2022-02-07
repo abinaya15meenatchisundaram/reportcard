@@ -1,0 +1,25 @@
+
+                                                                           Theme of the Project
+
+The Project is about a students REPORT CARD of a class where the students personal details and marks uptained by 
+the student in a particular exam or the recent exam conducted by that students school. I have used Python and MYSQL 
+in the preparation of this project and I have used Tkinter Python Module to use for getting the inputs from the user and
+displaying the stored details in the form of report card. I have used MYSQLCONNECTOR for storing the details or
+data inputed the user in the form database called 'report_card' which consist of two Tables students_marks and
+students_personal_info in which marks of the student will be stored in students_marks Table and students details will be
+stored in the students_personal_info Table. 
+
+     This Project will help user to know the performance of the student by the help of report card which will have all the 
+subject scores and practicals exams scores of the student. And also the user will be able to view the personal details of
+the student in detailed way and in a easy way to access the stored source. This Project will be easier to use and view 
+the source wihout any inconvenience.
+
+      The user will not only be inputing and viewing the source of data but also the user will be able to modify the data 
+stored.User can also delete the data which they don't want to keep in the table or database.The user will also be able to 
+see the data or details of all the student which are inputed or stored by the user into the database report_card in a 
+form of a table.
+
+       Thus user will be able input,access and modify the data or details of the student with the help of mysql connection
+with python and python tkinter module.
+
+M.Abinaya

@@ -1,0 +1,48 @@
+ 
+                                                                                                   HELP
+
+Features or Options in this PROJECT are
+
+1.Display Students Record:
+	This option will help user to view the data or records stored in the MYSQL database "report_card" 's tabel students_marks.
+All the records in the table will be displayed in the form of a table. Only the students_marks table records will be display , this will
+not display the records from students_personal_info table.
+
+2.Update Students Record:
+                  This option will help the user to change or modify the records details persent in the table students_marks since this 
+Project is about report card this option will help the user to change and modify the marks of the student for each subjects 
+separatedly. This will be like same as inputing the details.
+
+3.Insert Details:
+                   This options will help the user input the personal details of the students into the table 'students_personal_info' of 
+database 'report_card'.The record details will be directly be saved and will be inserted in the database when you click 'save'.
+
+4.Delete Students Records:
+                   This option will help the user to delete the record of the student permanently from the database 'report_card'
+from both tables 'students_personal_info' and 'students_marks' the record will be deleted.
+
+5.Display Class Record:
+                   This option will show all the record that are being stored in the table 'students_marks' from database report_card
+in the form of a table format in a separate window of tkinter python.
+
+6.Insert Marks:
+                   This options will help the user input the marks obtained by the students into the table 'students_marks' of 
+database 'report_card'.The record details will be directly be saved and will be inserted in the database when you click 'save'.
+
+7.Create Database:
+                   This option will help user to delete all the details of the students and tables in one go by deleting the whole 
+database and will create a new fresh database 'report_card' with two tables 'students_personal_info' and 'students_marks'.
+
+8.Theme:
+               This option will show the user the theme of this project 'REPORT CARD'.
+
+THANK YOU
+                     
+
+
+
+
+
+
+
+
