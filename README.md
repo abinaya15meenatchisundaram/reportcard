@@ -4,16 +4,18 @@ This README provides an overview of the Student Management System Report Card pr
 
 ## Table of Contents
 
+
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Insert Students' Personal Details](#insert-students-personal-details)
+- [Insert Students' Exam Marks](#insert-students-exam-marks)
+- [Getting Started](#getting-started)
+- [Dependencies](#dependencies)
+- [Configuration](#configuration)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Database](#database)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
-- [License](#license)
-
+  
 ## Project Overview
 
 The Student Management System Report Card project is designed to efficiently manage student information and generate report cards for educational institutions. The project utilizes Python programming for the backend logic, MySQL for database storage, and Tkinter for the graphical user interface.
