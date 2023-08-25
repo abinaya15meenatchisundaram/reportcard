@@ -7,7 +7,7 @@ This README provides an overview of the Student Management System Report Card pr
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Insert Students' Personal Details](#insert-students-personal-details)
+- [Insert Students' Personal Details](#insert-students-personal-details)   
 - [Insert Students' Exam Marks](#insert-students-exam-marks)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
