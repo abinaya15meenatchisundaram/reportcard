@@ -12,7 +12,7 @@ This README provides an overview of the Student Management System Report Card pr
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)   
 - [Installation](#installation)
 - [Usage](#usage)
   
