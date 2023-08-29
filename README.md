@@ -3,7 +3,7 @@
 This README provides an overview of the Student Management System Report Card project, which is developed using Python, MySQL connectivity, and Tkinter for the frontend. The project aims to create a user-friendly application for managing student details and generating report cards.
 
 ## Table of Contents
-
+ 
 
 - [Project Overview](#project-overview)
 - [Features](#features)
