@@ -11,7 +11,7 @@ This README provides an overview of the Student Management System Report Card pr
 - [Insert Students' Exam Marks](#insert-students-exam-marks)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [Configuration](#configuration)
+- [Configuration](#configuration) 
 - [Prerequisites](#prerequisites)      
 - [Installation](#installation)
 - [Usage](#usage)
